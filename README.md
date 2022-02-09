@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alinaerke
 - 👀 I’m interested in sleeping.
 - 🌱 I’m currently learning what to do here.
-- 💞️ I’m looking to collaborate on manuals
 - 📫 How to reach me ...
 
 <!---
